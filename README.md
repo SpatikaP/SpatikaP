@@ -15,9 +15,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spatikap&show_icons=true&locale=en&layout=compact" alt="spatikap" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spatikap&show_icons=true&locale=en" alt="spatikap" /></p>
+<p>&nbsp;<img align="center" padding:"2px" margin:"2px" src="https://github-readme-stats.vercel.app/api?username=spatikap&show_icons=true&locale=en" alt="spatikap"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spatikap&" alt="spatikap" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=spatikap&" alt="spatikap" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
