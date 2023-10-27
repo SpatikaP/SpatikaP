@@ -5,7 +5,7 @@
 
 - 💡  I like to explore new technologies and develop optimised software solutions.
 - 🎓  Currently, I'm pursuing my Bachelor's Degree at the National Institute of Technology, Rourkela.
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning React js.
 - ✍️  I am looking to collaborate on frontend projects.
 - ✉️  You can contact me at spatikaprusty79053@gmail.com!.
 <img align = "right" alt="Code" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
