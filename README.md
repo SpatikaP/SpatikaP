@@ -2,8 +2,13 @@
 <h1 align="center">Hi 👋, I'm Spatika</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🌱 I’m currently learning **React**
 
+- 💡  I like to explore new technologies and develop optimised software solutions.
+- 🎓  Currently, I'm pursuing my Bachelor's Degree at the National Institute of Technology, Rourkela.
+- 🌱 I’m currently learning **React**
+- ✍️  I am looking to collaborate on frontend projects.
+- ✉️  You can contact me at spatikaprusty79053@gmail.com!.
+<img align = "right" alt="Code" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/spatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spatik" height="30" width="40" /></a>
