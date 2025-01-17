@@ -1,12 +1,12 @@
  
 <h1 align="center" color="blue">Hi, I'm Spatika</h1>
-<h3 align="center" color="blue">A passionate frontend developer.</h3>
+<h3 align="center" color="blue">A am a DevOps Engineer</h3>
 
 
 - 💡  I like to explore new technologies and develop optimised software solutions.
-- 🎓  Currently, I'm pursuing my Bachelor's Degree at the National Institute of Technology, Rourkela.
-- 🌱 I’m currently learning React js.
-- ✍️  I am looking to collaborate on frontend projects.
+- 🔭  Currently, I'm working as a DevOps Engineer in lumiq.ai.
+- 🌱 I’m currently learning DevOps practices.
+- ✍️  I am looking to collaborate on projects.
 - ✉️  You can contact me at spatikaprusty79053@gmail.com!.
 <img align = "right" alt="Code" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 
