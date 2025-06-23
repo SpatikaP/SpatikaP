@@ -7,4 +7,4 @@
 - 🔭  Currently, I'm working as a DevOps Engineer in lumiq.ai.
 - 🌱 I’m currently learning DevOps practices.
 - ✍️  I am looking to collaborate on projects.
-- ✉️  You can contact me at spatikaprusty79053@gmail.com!.
+- ✉️  You can contact me at spatikaprusty79053@gmail.com
