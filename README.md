@@ -2,7 +2,6 @@
 <h3 align="center" color="blue">I am a DevOps Engineer</h3>
 
 - 💡 I like to explore new technologies and develop optimised software solutions.
-- 🔭 Currently, I'm working as a DevOps Engineer in lumiq.ai
 - 🌱 I’m currently learning DevOps practices.
 - ✍️ I am looking to collaborate on projects.
 - ✉️ You can contact me at kspatikaprusty@gmail.com
